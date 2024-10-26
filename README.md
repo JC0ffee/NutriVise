@@ -1,6 +1,6 @@
 # NutriVise: Chatbot Kesehatan
 
-NutriVise adalah chatbot kesehatan yang dirancang untuk memberikan saran kesehatan berdasarkan gejala yang diberikan oleh pengguna. Chatbot ini dapat membantu memberikan informasi dasar tentang kesehatan, memberikan saran kepada pengguna mengenai nutrisi dan multivitamin yang harus dikonsumsinya. NutriVise bukan pengganti profesional medis, jadi pengguna disarankan untuk berkonsultasi dengan dokter jika mengalami masalah kesehatan serius.
+NutriVise atau Nutrition Advice for Wellness adalah chatbot kesehatan yang dirancang untuk memberikan saran kesehatan berdasarkan gejala yang diberikan oleh pengguna. Chatbot ini dapat membantu memberikan informasi dasar tentang kesehatan, memberikan saran kepada pengguna mengenai nutrisi dan multivitamin yang harus dikonsumsinya. NutriVise bukan pengganti profesional medis, jadi pengguna disarankan untuk berkonsultasi dengan dokter jika mengalami masalah kesehatan serius.
 
 ## Disclaimer
 NutriVise hanya memberikan saran umum berdasarkan data yang ada. **Jika kalian mengalami masalah serius atau gejala yang berkelanjutan, segera konsultasikan dengan dokter atau tenaga medis profesional.**
