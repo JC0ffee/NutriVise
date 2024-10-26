@@ -40,13 +40,13 @@ Untuk mengakses API dari perangkat lain, dengan menggunakan [Ngrok](https://ngro
 ## Endpoint: /chatbot
 - **Method**: ```Post```
 - **Request Body**: ```JSON```
-- Contoh di postman:
+- **Contoh di postman**:
 ```bash
 {
     "gejala": "Saya mengalami gangguan pernapasan"
 }
 ```
-- Contoh menguji API menggunakan ```curl```
+- **Contoh menguji API menggunakan** ```curl```
 ```bash
 curl -X POST http://127.0.0.1:8080/chatbot -H "Content-Type: application/json" -d '{"gejala": "Saya sering merasa lelah dan tidak bertenaga"}'
 ```
